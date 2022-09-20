@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Facebook_simulator</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="person_name">John Tomas</string>
+    <string name="time">38 minutes ago</string>
+    <string name="tv_like">Like</string>
+    <string name="tv_comment">Comment</string>
+    <string name="tv_share">Share</string>
+    <string name="ed_email_hint">Enter your Email</string>
+    <string name="ed_password_hint">Password</string>
+    <string name="btn_login_text">Login</string>
+    <string name="btn_forget_text">Forget Password?</string>
+    <string name="or">OR</string>
+    <string name="btn_new_text">CREATE NEW FACEBOOK ACCOUNT</string>
+</resources>

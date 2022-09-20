@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="person_image_width">72dp</dimen>
+    <dimen name="person_image_height">72dp</dimen>
+    <dimen name="tv_name_textSize">18sp</dimen>
+    <dimen name="imageView_post_height">256dp</dimen>
+    <dimen name="icon_like_width">32dp</dimen>
+    <dimen name="icon_like_height">32dp</dimen>
+    <dimen name="tv_icon_like_textSize">18sp</dimen>
+    <dimen name="tv_icon_comment_textSize">18sp</dimen>
+    <dimen name="tv_icon_share_textSize">18sp</dimen>
+    <dimen name="icon_comment_width">32dp</dimen>
+    <dimen name="icon_comment_height">32dp</dimen>
+    <dimen name="icon_share_width">32dp</dimen>
+    <dimen name="icon_share_height">32dp</dimen>
+</resources>

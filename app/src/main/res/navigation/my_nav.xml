@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/login2">
+
+    <fragment
+        android:id="@+id/login2"
+        android:name="com.example.facebook_simulator.login"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" >
+        <action
+            android:id="@+id/action_login2_to_recyclerView"
+            app:destination="@id/recyclerView" />
+    </fragment>
+    <fragment
+        android:id="@+id/recyclerView"
+        android:name="com.example.facebook_simulator.RecyclerView"
+        android:label="fragment_recycler_view2"
+        tools:layout="@layout/fragment_recycler_view2" />
+</navigation>
